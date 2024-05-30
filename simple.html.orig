@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <!--
 	CopyRight 2014 Git.Trainingh
+<<<<<<< HEAD
        some silly changes from master bramch
+=======
+        These changes are from the feature branch big trouble 
+>>>>>>> 2a51f7e (fb adding some trouble to simplet.html)
 --.
 
 
 
 <head>
-	<title>A Simple Website</title>
+<<<<<<< HEAD
+	<title>A Silly changes on master</title>
+=======
+<title>big trouble</title>
+>>>>>>> 2a51f7e (fb adding some trouble to simplet.html)
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,8 +27,13 @@
 </head>
 <body>
 	<main class="container">
+	<!-- junk filler content -->
 		<p>
-			Just some content
+<<<<<<< HEAD
+			Just stuff for now:
+=======
+			Just trouble:
+>>>>>>> 2a51f7e (fb adding some trouble to simplet.html)
 		</p>
 	</main>
 	<footer class="container">
